@@ -17,7 +17,7 @@ Here is your flag:
 pwn.college{0xFYa4Q9Hb_3-tKPCMgDtwrwVDY.QXxUTN0wyN4ETMzEzW}
 ```
 
-# What I learned
+## What I learned
 
 I learned that you can't execute programs within the current working directory (cwd) using a naked path. This is a safety measure on Linux's side in case the program has the same name as a core system utility, and returns an error message. 
 Instead, you need to refer to it by preceding it with a "./" (ex: "./run")

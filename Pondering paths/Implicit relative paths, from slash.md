@@ -17,6 +17,6 @@ Here is your flag:
 pwn.college{EM-uFsQmZ2O6Zr_VjipOpqw9E7t.QX5QTN0wyN4ETMzEzW}
 ```
 
-# What I learned
+## What I learned
 
 If you use absolute paths, it doesn't matter what directory you are currently in. A relative path is any path that doesn't start at the root ("/"), and is interprated relative to your current working directory (which is the directory where your prompt is currently located at).

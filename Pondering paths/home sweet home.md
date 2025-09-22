@@ -17,7 +17,7 @@ Writing the file to /home/hacker/a!
 pwn.college{c42T6oU3tHd7IVffXGUXbSvBZ-S.QXzMDO0wyN4ETMzEzW}
 ```
 
-# What I learned
+## What I learned
 
 Every user has a home directory that is typically under "/home" in the filesystem. (In the dojo, this is "/home/hacker")
 
