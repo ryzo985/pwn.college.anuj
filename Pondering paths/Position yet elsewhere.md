@@ -3,7 +3,7 @@
 We were asked to run the program /challenge/run within another directory, where we were supposed to change to that directory using cd (/usr/include) to recieve  the flag.
 
 ## My solve
-**Flag:** 'pwn.college{0Np59MpVRaT0nmd8e6DrCWjvhN7.QX4QTN0wyN4ETMzEzW}'
+**Flag: 'pwn.college{0Np59MpVRaT0nmd8e6DrCWjvhN7.QX4QTN0wyN4ETMzEzW}'** 
 
 This was the same as the previous 2 challenges, but with a different path to change to. I ran ``/challenge/run``, to which i got an error message with the correct directory that i must change into using ``cd`` ("/usr/include"). I changed into this directory and then ran ``/challenge/run``, to get the flag.
 

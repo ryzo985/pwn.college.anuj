@@ -3,7 +3,7 @@
 We were asked to invoke the /challenge/run program in yet another directory (/usr/bin) using the cd commmand to recieve the flag. 
 
 ## My solve
-**Flag:** 'pwn.college{UEJ5eXCyUq5LWnRgN7Tq-aMsysP.QX3QTN0wyN4ETMzEzW}'
+**Flag:'pwn.college{UEJ5eXCyUq5LWnRgN7Tq-aMsysP.QX3QTN0wyN4ETMzEzW}'** 
 
 This was the same as the previous challenge, just with a different path to ``cd`` to. I tried to run ``/challenge/run``, to which it told me that i was not in the correct directory. The correct directory was "/usr/bin", to which i used the ``cd`` command to change into. From there, i ran ``/challenge/run`` again where it worked as i invoked it from the right directory.
 

@@ -3,7 +3,7 @@
 Here we were asked to execute the ``hello`` command in the terminal after connection and after entering it we recieve the flag.
 
 ## My solve
-**Flag:** 'pwn.college{srVyjqvtprhGbjCIrlJu0yIm6sE.QX3YjM1wyN4ETMzEzW}'
+**Flag: 'pwn.college{srVyjqvtprhGbjCIrlJu0yIm6sE.QX3YjM1wyN4ETMzEzW}'** 
 
 I input the ``hello`` command into the linux terminal to receive the flag.
 

@@ -3,7 +3,7 @@
 We were asked to execute /challenge/run from a different directory (/usr/share/doc) using cd to recieve the flag.
 
 ## My solve
-**Flag:** 'pwn.college{Ml9Jgou5KlZTmm_zVsGnxd-0TQh.QX2QTN0wyN4ETMzEzW}'
+**Flag:'pwn.college{Ml9Jgou5KlZTmm_zVsGnxd-0TQh.QX2QTN0wyN4ETMzEzW}'** 
 
 I tried to execute ``/challenge/run`` but it didn't work, and instead it told me that I'm not currently in the "/usr/share/doc" directory. So i used ``cd`` to change into that directory before running ``/challenge/run`` which then worked to give me the flag.
 
