@@ -22,6 +22,7 @@ hacker@man~reading-manuals:~$ /challenge/challenge --sbozeh 966
 Correct usage! Your flag: pwn.college{sbDozQIeh-u96Xreohwv6Bs_zBV.QX0EDO0wyN4ETMzEzW}
 hacker@man~reading-manuals:~$ 
 ```
+![Manual page](/.images/Readingmanuals.png)
 
 ## What I learned
 I learned that the ``man`` command (short for manual) displays the manual of the command you pass to it as an argument. You can scroll around the manual page using the up and down arrowkeys, and you hit "q" to quit. Manual pages are stored in a centralized database, located at */usr/share/man*
